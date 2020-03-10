@@ -15,7 +15,7 @@ Jenkins X also participates in GSoC under the Jenkins umbrella.
 If you are a project maintainer and consider mentoring during the GSoC 2020 cycle, please, submit your ideas below using the [template](PROJECT_IDEA_TEMPLATE.md).
 
 ### Jenkins
-Jenkins is the leading open source automation source built on the Java Virtual Machine (JVM) with an ecosystem of >2000 plugins that extend Jenkins to automate with practically any technology software delivery teams use.
+Jenkins is the leading open source automation server built on the Java Virtual Machine (JVM) with an ecosystem of >2000 plugins that extend Jenkins to automate with practically any technology software delivery teams use.
 
 This year the Jenkins project participates in GSoC as a separate GSoC mentoring organization.
 You can find the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
