@@ -17,7 +17,9 @@ You can file the organizations profile and application guidelines [here](https:/
 List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2020/project-ideas/).
 
 ### Jenkins X 
-Jenkins X project ideas
+This year Jenkins X project participates in GSoC under umbrella of the Jenkins project.
+You can file the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
+List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2020/project-ideas/).
 
 ### Spinnaker
 
