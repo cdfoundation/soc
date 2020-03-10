@@ -12,7 +12,9 @@ CDF is planning to participate in GSoC 2020.
 If you are a project maintainer and consider mentoring during the GSoC 2020 cycle, please, submit your ideas below using the template.
 
 ### Jenkins
-Jenkins project ideas
+This year the Jenkins project participates in GSoC as a separate GSoC mentoring organization.
+You can file the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
+List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2020/project-ideas/).
 
 ### Jenkins X 
 Jenkins X project ideas
