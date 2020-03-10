@@ -34,7 +34,7 @@ Project ideas are coming soon.
 
 ### Tekton
 
-Project ideas are coming soon.
+Contribute to integrating Tekton with Kubeflow Pipelines, to create an end to end machine MLOPs solution. The project will follow the [design specs here](https://docs.google.com/document/d/1oXOdiItI4GbEe_qzyBmMAqfLBjfYX1nM94WHY3EPa94/edit#heading=h.bqfysjn55rqn), and will be carried under the MLOps Sig of CD Foundation
 
 ## Communication channels
 
