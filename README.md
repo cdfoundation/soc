@@ -38,7 +38,9 @@ Project ideas are coming soon.
 
 ### Tekton
 
-Project ideas are coming soon.
+Tekton is a set of shared, open source components for building CI/CD systems. It modernizes the Continuous Delivery control plane and moves the brains of software deployment to Kubernetes. Tekton’s goal is to provide industry specifications for CI/CD pipelines, workflows and other building blocks through a vendor neutral, open source foundation. The Tekton Pipelines project provides Kubernetes-style resources for declaring CI/CD-style pipelines.
+
+[Tekton Project Ideas](2020.md#tekton)
 
 ## Communication channels
 
