@@ -9,7 +9,10 @@ Jenkins project is a [separate GSoC organization](https://summerofcode.withgoogl
 Jenkins X also participates in GSoC under the Jenkins umbrella.
 
 ## Org Admins
+- TBD
 
+## Current Year
+CDF is planning to participate in GSoC 2020. Please stay tuned before the official announcement (Q1'2020).
 
 ## Project Ideas 
 If you are a project maintainer and consider mentoring during the GSoC 2020 cycle, please, submit your ideas below using the template.
