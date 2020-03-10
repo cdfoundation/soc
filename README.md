@@ -3,7 +3,10 @@
 Google Summer of Code
 ---------------------
 
-CDF is planning to participate in GSoC 2020. 
+CDF is planning to participate in Google Summer of Code 2020. 
+This year CDF organizes GSoC for Spinnaker, Tekton, and Screwdriver.cd.
+Jenkins project is a [separate GSoC organization](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
+Jenkins X also participates in GSoC under the Jenkins umbrella.
 
 ## Org Admins
 
