@@ -9,7 +9,7 @@
 
 ### Sample:
 
-#### Refactor the APIs for better readability and less maintenance overhead
+#### Refactor the APIs for better readability and less maintenance overhead for telemetry collection
 
 -	Description: Work on API error telemetry. The actual course of action is not decided yet, but https://github.com/jenkinsci/jep looks like a good fit.
 -	Recommended Skills: java
