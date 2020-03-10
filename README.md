@@ -40,4 +40,5 @@ Project ideas are coming soon.
 
 * Chat: Continuous Delivery Foundation [Slack workspace](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-ao8y4qhd-BQcTUg5l7m0HxXyBvJrT4w), `#gsoc` channel
 * Mailing list: [main@lists.cd.foundation](https://lists.cd.foundation/g/main)
+* [CDF Newsletter](https://cd.foundation/stay-connected/)
 
