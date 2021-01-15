@@ -4,7 +4,7 @@ Google Summer of Code
 ---------------------
 
 CDF is planning to participate in Google Summer of Code 2020. 
-This year CDF organizes GSoC for Spinnaker, Tekton, and Screwdriver.cd.
+This year CDF organizes GSoC for Spinnaker, Tekton, Ortelius and Screwdriver.cd.
 Jenkins project is a [separate GSoC organization](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
 Jenkins X also participates in GSoC under the Jenkins umbrella.
 
@@ -27,6 +27,27 @@ Jenkins X is an open source CI/CD solution for modern cloud applications on Kube
 This year Jenkins X project participates in GSoC under umbrella of the Jenkins project.
 You can find the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
 List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2020/project-ideas/).
+
+## Ortelius
+
+Ortelius is a microservice management platform that integrates into CI/CD to perform automated configuration management, versioning and tracking of microservices and other cloud native components providing visibility before you deploy.  This year Ortelius will participate in GSOC with 3 projects, two focused on interoperability and one around data visualization. 
+
+Project Description:
+- Spinnaker and ArgoCD - add integration to allow [Spinnaker](https://github.com/ortelius/ortelius/issues/105) and [ArgoCD](https://github.com/ortelius/ortelius/issues/215) to call Ortelius for updating deployment configuration data and relationships.
+- [Relationship Visualization](https://github.com/ortelius/ortelius/issues/216). Research and implement updates to the Ortelius Visualization Maps to expand the data for Domains, Component Blast Radius and Application Bill of Material reports.
+
+Recommended Skills: 
+- Javascript
+- Java
+- Python
+
+Mentor(s): 
+- [Steve Taylor](https://github.com/sbtaylor15)
+- [Karamjot Singh](https://github.com/karamjotsingh/)
+- [Sacha Wharton](https://github.com/sachajw/)
+- [Neetu Jain](https://github.com/Neetuj/) 
+
+To learn more view the [Ortelius Project Page.](https://ortelius.io/2021/01/18/ortelius-joins-gsoc/)
 
 ### Spinnaker
 
