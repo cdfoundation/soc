@@ -1,1 +1,4 @@
-
+Ortelius
+- Integration with Spinnaker [issue link](https://github.com/ortelius/ortelius/issues/105)
+- Integration with ArgoCD [issue link]( https://github.com/ortelius/ortelius/issues/215)
+- Enhance Ortelius relationship visualization to handle large scale multi-level hierarchal relationships [issue link](https://github.com/ortelius/ortelius/issues/216)
