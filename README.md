@@ -30,7 +30,7 @@ List of the project ideas is available on the [Jenkins website](https://jenkins.
 
 ### Spinnaker
 
-Project ideas are coming soon.
+[Spinnaker](https://spinnaker.io/concepts/) is an open-source multi-cloud continuous delivery platform. The [Accepted Projects List](https://spinnaker.io/community/gsoc/) includes various technologies like AWS, Javascript, Java, Github Actions and more. It is non-exclusive, so we also invite you to present your own ideas!
 
 ### Screwdriver.cd
 
