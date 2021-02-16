@@ -28,6 +28,12 @@ You can read Jenkins 2020 GSoC organization profile and look at 2020 Jenkins GSo
 <!-- ### Jenkins X -->
 
 
+## Ortelius
+
+[Ortelius](https://ortelius.io/) is a microservice management platform that integrates into CI/CD to perform automated configuration management, versioning and tracking of microservices and other cloud native components providing visibility before you deploy.
+
+[Ortelius Project Ideas](project-ideas-2021.md#ortelius)
+
 ### Spinnaker
 
 [Spinnaker](https://spinnaker.io/concepts/) is an open-source multi-cloud continuous delivery platform. The [Accepted Projects List](https://spinnaker.io/community/gsoc/) includes various technologies like AWS, Javascript, Java, Github Actions and more. It is non-exclusive, so we also invite you to present your own ideas!
