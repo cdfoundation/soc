@@ -19,17 +19,13 @@ If you are a project maintainer and consider mentoring during the GSoC 2021 cycl
 Jenkins is the leading open source automation server built on the Java Virtual Machine (JVM) with an ecosystem of >2000 plugins that extend Jenkins to automate with practically any technology software delivery teams use.
 
 This year the Jenkins project participates in GSoC as part of the CDF GSoC mentoring organization.
-<!-- You can find the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/). -->
-[List of the project ideas is available on the Jenkins website](https://jenkins.io/projects/gsoc/2021/project-ideas/).
-The Jenkins organisation is currently looking for project ideas and mentors. Find more information on suggesting project ideas or voluntering as a mentor in [this Jenkins blog post](https://www.jenkins.io/blog/2020/12/16/call-for-mentors/).
 
 Jenkins holds GSoC Office Hours every week on Wednesdays, see [the Jenkins event calendar](https://www.jenkins.io/events/). You can view past [GSoC Office Hours on our YouTube channel](https://www.youtube.com/playlist?list=PLN7ajX_VdyaO1f6bvkcSzW4PdWKkLktRG).
 And read our [GSoC Office Hours meeting minutes](https://docs.google.com/document/d/1H0gJt1zdr37YDpuSLXSeFqYco_a_CIrAuZ1f0Oyl4XE/edit#) -- these contain a lot of advice on getting started as a potential GSoC student, as well as discussions on proposed project ideas.
 
 You can read Jenkins 2020 GSoC organization profile and look at 2020 Jenkins GSoC projects [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
 
-<!-- ### Jenkins X -->
-
+[2021 Jenkins Project Ideas](https://jenkins.io/projects/gsoc/2021/project-ideas/)
 
 ### Ortelius
 
@@ -52,6 +48,12 @@ You can read Jenkins 2020 GSoC organization profile and look at 2020 Jenkins GSo
 Tekton is a set of shared, open source components for building CI/CD systems. It modernizes the Continuous Delivery control plane and moves the brains of software deployment to Kubernetes. Tekton’s goal is to provide industry specifications for CI/CD pipelines, workflows and other building blocks through a vendor neutral, open source foundation. The Tekton Pipelines project provides Kubernetes-style resources for declaring CI/CD-style pipelines.
 
 [Tekton Project Ideas](2020.md#tekton)
+
+### Jenkins X
+
+[Jenkins X](https://jenkins-x.io/) provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
+
+Jenkins X will not be participating in GSoC 2021. We are very appreciative of our 2020 GSoC experience and the work our GSoC student did, which you can read more about [here](https://www.jenkins.io/projects/gsoc/2020/projects/jenkins-x-apps-consolidation/).
 
 ## Communication channels
 
