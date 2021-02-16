@@ -7,7 +7,10 @@ CDF is planning to participate in Google Summer of Code 2021.
 This year CDF organizes GSoC for Jenkins, Spinnaker, Tekton, and Screwdriver.cd.
 
 ## Org Admins
+* Tara Hernandez (Google)
+* Kara de la Marck (CloudBees)
 
+If you need help with GSOC at CDF, you can submit a PR, file an issue at this repo or reach out to us at the #gsoc channel on [CDF Slack](https://cdeliveryfdn.slack.com/).
 
 ## Project Ideas
 If you are a project maintainer and consider mentoring during the GSoC 2021 cycle, please, submit your ideas below using the [template](PROJECT_IDEA_TEMPLATE.md).
@@ -53,6 +56,6 @@ Tekton is a set of shared, open source components for building CI/CD systems. It
 ## Communication channels
 
 * Chat: Continuous Delivery Foundation [Slack workspace](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-ao8y4qhd-BQcTUg5l7m0HxXyBvJrT4w), `#gsoc` channel
-* Mailing list: [main@lists.cd.foundation](https://lists.cd.foundation/g/main)
+* Mailing list: [Technical Oversight Committee mailing list](https://lists.cd.foundation/g/cdf-toc)
 * [CDF Newsletter](https://cd.foundation/stay-connected/)
 
