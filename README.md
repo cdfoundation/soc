@@ -3,30 +3,30 @@
 Google Summer of Code
 ---------------------
 
-CDF is planning to participate in Google Summer of Code 2020. 
-This year CDF organizes GSoC for Spinnaker, Tekton, and Screwdriver.cd.
-Jenkins project is a [separate GSoC organization](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
-Jenkins X also participates in GSoC under the Jenkins umbrella.
+CDF is planning to participate in Google Summer of Code 2021.
+This year CDF organizes GSoC for Jenkins, Spinnaker, Tekton, and Screwdriver.cd.
 
 ## Org Admins
 
 
-## Project Ideas 
-If you are a project maintainer and consider mentoring during the GSoC 2020 cycle, please, submit your ideas below using the [template](PROJECT_IDEA_TEMPLATE.md).
+## Project Ideas
+If you are a project maintainer and consider mentoring during the GSoC 2021 cycle, please, submit your ideas below using the [template](PROJECT_IDEA_TEMPLATE.md).
 
 ### Jenkins
 Jenkins is the leading open source automation server built on the Java Virtual Machine (JVM) with an ecosystem of >2000 plugins that extend Jenkins to automate with practically any technology software delivery teams use.
 
-This year the Jenkins project participates in GSoC as a separate GSoC mentoring organization.
-You can find the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
-List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2020/project-ideas/).
+This year the Jenkins project participates in GSoC as part of the CDF GSoC mentoring organization.
+<!-- You can find the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/). -->
+[List of the project ideas is available on the Jenkins website](https://jenkins.io/projects/gsoc/2021/project-ideas/).
+The Jenkins organisation is currently looking for project ideas and mentors. Find more information on suggesting project ideas or voluntering as a mentor in [this Jenkins blog post](https://www.jenkins.io/blog/2020/12/16/call-for-mentors/).
 
-### Jenkins X 
-Jenkins X is an open source CI/CD solution for modern cloud applications on Kubernetes. Jenkins X is written in GoLang and provides pipeline automation, built-in GitOps and preview environments. 
+Jenkins holds GSoC Office Hours every week on Wednesdays, see [the Jenkins event calendar](https://www.jenkins.io/events/). You can view past [GSoC Office Hours on our YouTube channel](https://www.youtube.com/playlist?list=PLN7ajX_VdyaO1f6bvkcSzW4PdWKkLktRG).
+And read our [GSoC Office Hours meeting minutes](https://docs.google.com/document/d/1H0gJt1zdr37YDpuSLXSeFqYco_a_CIrAuZ1f0Oyl4XE/edit#) -- these contain a lot of advice on getting started as a potential GSoC student, as well as discussions on proposed project ideas.
 
-This year Jenkins X project participates in GSoC under umbrella of the Jenkins project.
-You can find the organizations profile and application guidelines [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
-List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2020/project-ideas/).
+You can read Jenkins 2020 GSoC organization profile and look at 2020 Jenkins GSoC projects [here](https://summerofcode.withgoogle.com/organizations/4945163270488064/).
+
+<!-- ### Jenkins X -->
+
 
 ### Spinnaker
 
