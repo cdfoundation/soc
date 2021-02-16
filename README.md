@@ -36,7 +36,7 @@ Project ideas are coming soon.
 
 [Screwdriver](https://screwdriver.cd/) is an open source build platform designed for Continuous Delivery.
 
-[Screwdriver Project Ideas](2020.md#screwdriver)
+[Screwdriver Project Ideas](project-ideas-2021.md#screwdriver)
 
 ### Tekton
 
