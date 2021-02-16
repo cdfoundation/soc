@@ -53,7 +53,7 @@ Tekton is a set of shared, open source components for building CI/CD systems. It
 
 [Jenkins X](https://jenkins-x.io/) provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
 
-Jenkins X will not be participating in GSoC 2021. We are very appreciative of our 2020 GSoC experience and the work our GSoC student did, which you can read more about [here](https://www.jenkins.io/projects/gsoc/2020/projects/jenkins-x-apps-consolidation/).
+Jenkins X will not be participating in GSoC 2021. We are very appreciative of our 2020 GSoC experience and the contributions of our GSoC student, which you can read more about [here](https://www.jenkins.io/projects/gsoc/2020/projects/jenkins-x-apps-consolidation/).
 
 ## Communication channels
 
