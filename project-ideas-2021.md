@@ -1,8 +1,28 @@
 
 ## Jenkins
 
-
 List of the project ideas is available on the [Jenkins website](https://jenkins.io/projects/gsoc/2021/project-ideas/).
+
+## Ortelius
+
+Ortelius is a microservice management platform that integrates into CI/CD to perform automated configuration management, versioning and tracking of microservices and other cloud native components providing visibility before you deploy.  This year Ortelius will participate in GSOC with 3 projects, two focused on interoperability and one around data visualization. 
+
+Project Description:
+- Spinnaker and ArgoCD - add integration to allow [Spinnaker](https://github.com/ortelius/ortelius/issues/105) and [ArgoCD](https://github.com/ortelius/ortelius/issues/215) to call Ortelius for updating deployment configuration data and relationships.
+- [Relationship Visualization](https://github.com/ortelius/ortelius/issues/216). Research and implement updates to the Ortelius Visualization Maps to expand the data for Domains, Component Blast Radius and Application Bill of Material reports.
+
+Recommended Skills: 
+- Javascript
+- Java
+- Python
+
+Mentor(s): 
+- [Steve Taylor](https://github.com/sbtaylor15)
+- [Karamjot Singh](https://github.com/karamjotsingh/)
+- [Sacha Wharton](https://github.com/sachajw/)
+- [Neetu Jain](https://github.com/Neetuj/) 
+
+To learn more view the [Ortelius Project Page.](https://ortelius.io/2021/01/18/ortelius-joins-gsoc/)
 
 ## Screwdriver
 
