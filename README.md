@@ -31,7 +31,7 @@ You can read Jenkins 2020 GSoC organization profile and look at 2020 Jenkins GSo
 <!-- ### Jenkins X -->
 
 
-## Ortelius
+### Ortelius
 
 [Ortelius](https://ortelius.io/) is a microservice management platform that integrates into CI/CD to perform automated configuration management, versioning and tracking of microservices and other cloud native components providing visibility before you deploy.
 
