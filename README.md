@@ -9,6 +9,9 @@ This year CDF organizes GSoC for Jenkins, Spinnaker, Tekton, and Screwdriver.cd.
 ## Org Admins
 * Tara Hernandez (Google)
 * Kara de la Marck (CloudBees)
+* Jacqueline Salinas(CDF)
+* Tracy Miranda (CDF)
+* Oleg Nenashev	(Cloudbees)
 
 If you need help with GSOC at CDF, you can submit a PR, file an issue at this repo or reach out to us at the #gsoc channel on [CDF Slack](https://cdeliveryfdn.slack.com/).
 
